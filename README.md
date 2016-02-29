@@ -2,28 +2,28 @@
 Robertson College Assignment 3
 
 MARK BREAK DOWN:
-1. AdminPage.aspx:
+1. AdminPage.aspx
   - 17 MARKS TOTAL
   - 1 BONUS MARK TOTAL
-2. CartPage.aspx:
+2. CartPage.aspx
   - 17 MARKS TOTAL
   - 1 BONUS MARK TOTAL
-3. Install.sql:
+3. Install.sql
   - 30 MARKS TOTAL
-4. Login.aspx:
+4. Login.aspx
   - 7 MARKS TOTAL
-5. MainMaster.Master:
+5. MainMaster.Master
   - 9 MARKS TOTAL
   - 2 BONUS MARKS TOTAL
-6. ProductsPage.aspx:
+6. ProductsPage.aspx
   - 4 MARKS TOTAL
   - 1 BONUS MARK TOTAL
-7. ProductsPage.aspx.cs:
+7. ProductsPage.aspx.cs
   - 5 MARKS TOTAL
   - 1 BONUS MARK TOTAL
-8. Customer.cs:
+8. Customer.cs
   - 4 BONUS MARKS TOTAL
-9. Product.cs:
+9. Product.cs
   - 6 MARKS TOTAL
 10. ShoppingCart.cs
   - 15 MARKS TOTAL
