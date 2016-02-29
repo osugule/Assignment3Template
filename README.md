@@ -1,7 +1,6 @@
-### Assignment3Template
 ##Robertson College Assignment 3
 
-#MARK BREAK DOWN
+####MARK BREAK DOWN
 1. AdminPage.aspx
   - 17 MARKS TOTAL
   - 1 BONUS MARK TOTAL
@@ -31,7 +30,7 @@
   - 3 BONUS MARKS PER PAGE. Use the GridView Wizard to create Admin Screens for: Product and Customer
   - 2 BONUS MARKS PER PAGE. Use the Class Methods for the CRUD in the wizard above 
 
-##110 REGULAR MARKS TOTAL
-##20 BONUS MARKS TOTAL
+###110 REGULAR MARKS TOTAL
+###20 BONUS MARKS TOTAL
 
 ###The assignment should be handed in by Monday March 7th, 2016, end of class.
